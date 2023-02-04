@@ -1,0 +1,17 @@
+
+
+
+App Ideas
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~Tindify~
+Music finding app using Spotify that plays the sample of
+the suggested music in a "card-like" format (think Tinder cards)
+and loops the sample while user remains at card before swipe occurs.
+If user swipes right, song is added to a list of songs that users likes.
+If user swipes left, song is ignored and search is used to filter upcoming songs.
+Possibly integrate with "rate your music" (and other similar sites) that could 
+grab songs from top artists/albums and play the sample allowing you to determine
+your interest in that area.
+There could be a history in case a user accidentally swipes wrong way or misses
+a song and wants to "course correct" their listening patterns.
